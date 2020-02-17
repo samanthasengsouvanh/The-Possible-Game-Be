@@ -12,7 +12,7 @@ Gameplay is really simple and straightforward it just consists of an automatical
 
 ## Screenshot
 
-<img src="./public/images/screenshot.png">
+<img src="./public/images/screenshot1.png">
 
 ## Deployed Link 
 
